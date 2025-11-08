@@ -6,20 +6,25 @@
 </p>
 
 ---
-
-## 🧠 Sobre mí
+<h2 align="center">Sobre mí </h2>
 
 Soy un desarrollador Full-Stack apasionado por el diseño y la experiencia de usuario. Tengo 3 años de experiencia desarrollando código con tecnologías como **Next.js** junto con **React** y **Express** en **Node.js**, además de manejar bases de datos como **MongoDB** y **MySQL**.
 
 ---
 
-## 🚀 Tecnologías
+<h2 align="center">Tecnologías</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,next,react,tailwind,git,mongodb,express,java,mysql&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,next,react,tailwind,git,mongodb,express,java,mysql&perline=5" />
+  </a>
+</p>
 
 ---
 
-## 📬 Contacto
+<h2 align="center">Contacto</h2>
+
+
 
 <p align="center">
   <a href="mailto:andres.one.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
